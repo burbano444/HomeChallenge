@@ -7,9 +7,9 @@ Steps:
 1.	Follow the link to get the information about the Swagger Pet store project.
 2.	Analize, understand ante test the Swagger Pet store Sample training tool in https://petstore3.swagger.io/
 3.	Follow the instructions to set up locally environment in Docker and Run it.
- 
+ ![Captura de pantalla 2025-03-09 230054](https://github.com/user-attachments/assets/2d965082-23a1-4ff6-b9a8-95fce9a49675)
 4.	Use postman to test the requests and enforce the knowledge about the API (Endpoints, methods, structure, format, etc.)
- 
+ ![Captura de pantalla 2025-03-09 230054](https://github.com/user-attachments/assets/2fcef08c-8186-4e7d-af07-fc3ee00ad19a)
 5.	Propose a list of test cases for automation:
 •	Positive Tests:
 o	Add (Post) a new pet and verify its details.
