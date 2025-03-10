@@ -1,5 +1,5 @@
 # Solution
-🛑Important note: 🛑
+🛑Important note: 🛑  
 After clone, install cy with: npm install cypress --save-dev
 Run cypress with: npm run cy:open
 
