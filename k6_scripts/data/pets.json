@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1001,
+      "name": "LargePet",
+      "photoUrls": ["https://example.com/large1.jpg"],
+      "tags": [],
+      "status": "available"
+    },
+    {
+      "id": 1002,
+      "name": "MinimalPet",
+      "photoUrls": [],
+      "tags": [],
+      "status": ""
+    }
+  ]
+  

@@ -4,5 +4,5 @@
     "lib": ["es5", "dom"],
     "types": ["cypress", "node"]
   },
-  "include": ["**/*.ts", "cypress/e2e/PetStorePerformance/TestsAutomation.cy.js"]
+  "include": ["**/*.ts", "cypress/e2e/PetStorePerformance/TestsAutomation.cy.js", "k6_scripts/high_load_test.js"]
 }
