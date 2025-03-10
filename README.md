@@ -33,7 +33,7 @@ o	Add a pet with minimal data.
 6.	Translate it to a Gherkin language to understand clearly what I want to design and develop  
 For example:  
 
-# Positive Tests
+Positive Tests
   Scenario: Add a new pet and verify its details
     When I send a POST request to "/pet" with the pet payload
     Then the response status code should be 200
