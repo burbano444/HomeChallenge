@@ -1,4 +1,11 @@
 # Solution
+🛑Important note: 🛑
+ After clone, install cy with: npm install cypress --save-dev
+ Run cypress with: npm run cy:open
+
+ After installing Chocolatey and K6
+ Run K6 with: k6 run k6_scripts/*name of test*.js 
+ For example: k6 run k6_scripts/high_load_test.js
 
 Dear reviewer, I’m sending you the answers to the challenge:
 
