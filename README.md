@@ -9,7 +9,7 @@ Run cypress with: npm run cy:open
 
 Dear reviewer, I’m sending you the answers to the challenge:
 
-First task: API test automation
+*First task: API test automation*
 Steps:
 1.	Follow the link to get the information about the Swagger Pet store project.
 2.	Analize, understand ante test the Swagger Pet store Sample training tool in https://petstore3.swagger.io/
